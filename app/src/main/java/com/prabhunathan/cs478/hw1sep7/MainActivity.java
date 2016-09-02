@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Log.i(TAG, "Prabhunathan Gnanasekaran was here");
+        Log.i(TAG, "Prabhunathan Gnanasekaran was here !!");
         setContentView(R.layout.activity_main);
     }
 }
